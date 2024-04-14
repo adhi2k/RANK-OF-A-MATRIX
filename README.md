@@ -19,8 +19,8 @@ End the program.
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: Harish Gowtham E
-#RegisterNumber: 2305002009
+#Developed by: Sharukesk T
+#RegisterNumber: 2305002022
 import numpy as np
 A=np.array([[1,2,3],[3,6,9]])
 B=np.linalg.matrix_rank(A)
@@ -28,7 +28,7 @@ print(B)
 ```
 
 ## Output:
-![image](https://github.com/adhi2k/RANK-OF-A-MATRIX/assets/145216997/ba8e0f07-0bbd-484b-a9b2-0b05b79d6a13)
+![image](https://github.com/adhi2k/RANK-OF-A-MATRIX/assets/145216997/44412416-4e08-471f-8416-25cd3e799c97)
 
 
 
